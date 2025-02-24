@@ -61,7 +61,6 @@ bookLibraryManagement
      npm start
      ```
 4. **Run the application:**
-   - Start the server:
      ```
      npm run dev
      ```

@@ -49,7 +49,7 @@ bookLibraryManagement
      npm install
      ```
 
-3. **Run the application:**
+3. **Run seperately:**
    - Start the server:
      ```
      cd server
@@ -60,6 +60,12 @@ bookLibraryManagement
      cd client
      npm start
      ```
+4. **Run the application:**
+   - Start the server:
+     ```
+     npm run dev
+     ```
+  
 
 ### Features
 
